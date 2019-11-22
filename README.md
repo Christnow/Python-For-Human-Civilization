@@ -1,5 +1,5 @@
 # <center>Python For Human Civilization</center>
-> Using ython to record various scripts
+> Using python to record various scripts
 
 ## Requirement
 - Python==3.6.8
