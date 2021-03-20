@@ -9,7 +9,7 @@ Flask-SQLAlchemy==2.3.2
 gevent==1.4.0
 greenlet==0.4.15
 gunicorn==19.9.0
-Jinja2==2.10
+Jinja2==2.11.3
 jsonpath==0.81
 python-dateutil==2.8.0
 python-editor==1.0.4
